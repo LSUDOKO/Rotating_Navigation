@@ -10,7 +10,7 @@ An interactive rotating navigation menu implemented using HTML, CSS, and JavaScr
 
 ## 🎥 Demo
 
-![Rotating Navigation Demo](http://127.0.0.1:5500/project/index.html) <!-- Add a link to a demo GIF or image here -->
+[Rotating Navigation Demo](https://lsudoko.github.io/Rotating_Navigation/) <!-- Add a link to a demo GIF or image here -->
 
 ## 🚀 Installation
 
